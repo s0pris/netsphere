@@ -1,0 +1,43 @@
+$$ WE DO NOT CLAIM OWNERSHIP OVER THESE MODS. THIS IS A PRIVATE MODPACK. $$
+
+install fabric for version 1.20.4 at: https://fabricmc.net/
+
+download the modpack - (modpack.zip)
+
+go into your minecraft client, go to your options menu. then go to resource packs.
+from there, click "open pack folder"
+file explorer will open, go back in the tree to the .minecraft folder.
+in there, find your "Mods" folder, then click on it.
+unzip the modpack, and move the .jar files into your "Mods" folder.
+
+we reccomend the shaderpack photon for a unified look. 
+https://github.com/sixthsurge/photon
+
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$
+
+mod .jar list:
+appleskin
+cloth config
+dynamic surroundings
+entity culling
+fabric api
+fabric language kotlin
+ferrite core
+indium
+lambdyanmiclights
+lazydfu
+lithium fabric
+malilib
+memory leakfix
+mod menu
+moonlight
+presence footsteps
+sodium
+spark
+tweakeroo
+xaeros world and minimap
+yet another config lib
+zoomify
